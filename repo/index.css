@@ -1,0 +1,118 @@
+main{
+    display :flex ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    gap: 20px;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+#banner_mario {
+    width: 3000px;
+    height: 800px;
+    margin: 0px;
+    border-radius: 5%;
+    margin: 100px;
+    padding: 0;
+    align-self: center;
+    align-content: flex-start;
+    }
+
+
+ h2{
+    text-align: center;
+ }   
+
+#Navegacion{
+    display: inline-block ;
+}
+
+h3{
+    font :Arial, sans-serif;
+    text-align: center;
+}
+
+#mario40{
+    width: 500;
+    height: 400;
+    text-align: left;
+    border-radius: 5%;
+
+}
+
+section{
+    border: 1cap;
+    margin: 0px;
+    padding: 0px;
+    left: 40px;
+    
+}
+
+.uno{
+    text-align: center;
+    border: 100cap;
+    margin: 0px;
+    padding: 0px;
+    left: 40px;
+    
+}
+.dos{
+    text-align: center;
+    border: 100cap;
+    margin: 0px;
+    padding: 0px;
+    left: 40px;
+    
+}
+.tres{
+    text-align: center;
+    border: 100cap;
+    margin: 0px;
+    padding: 0px;
+    left: 40px;
+    
+}
+
+#mariogalaxy{
+    width: 500;
+    height: 400;
+    text-align: center;
+    border-radius: 5%;
+}
+
+#dkb{
+    width: 500;
+    height: 400;
+    text-align: center;
+    border-radius: 5%;
+}
+aside {
+    background-color: red;
+    width: 100%;
+    height: 100%;
+    align-content: end;
+    background:  linear-gradient(to bottom, red, white);
+    ;
+    
+    }
+
+nav{
+    display: inline-block;
+    page-orientation: auto;
+   
+}
+header{
+    background-color: red;
+    width: 13%;
+    height: 100%;
+}
+
+section{
+    border-width: 2px;
+    border: auto;
+    border-radius: 5%;
+    gap: 20%;
+}
+    
